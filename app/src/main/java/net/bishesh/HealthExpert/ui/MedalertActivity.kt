@@ -22,7 +22,7 @@ class MedalertActivity : AppCompatActivity() {
         setContentView(R.layout.activity_medalert)
         setSupportActionBar(toolbar)
 
-
+// bishesh
 
 
 
