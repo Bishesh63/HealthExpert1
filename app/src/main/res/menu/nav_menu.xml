@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/homeFragment"
+            android:title="Home"
+    />
+
+    <item
+            android:id="@+id/profileFragment"
+            android:title="Profile"
+    />
+    
+
+    <item
+            android:id="@+id/bmiFragment"
+            android:title="BmiFragment"
+            />
+    <item
+            android:id="@+id/medicalAlertFragment"
+            android:title="MedicalAlertFragment"
+            />
+    <item
+            android:id="@+id/forumFragment"
+            android:title="ForumFragment"
+            />
+
+
+</menu>
